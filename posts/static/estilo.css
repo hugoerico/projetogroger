@@ -1,0 +1,17 @@
+body{background-color: rgb(192, 49, 49);
+color: black;
+margin: 0%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    background-color: darkorange;
+    height: 5%;
+}
+nav a{
+    color: darkviolet;
+    font-size: 2em;
+    text-decoration: none;
+}
